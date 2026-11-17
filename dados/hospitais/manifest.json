@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "source": "CNES — Ministério da Saúde (dados abertos)",
+  "attribution": "Conferência de endereços: CEPs (AwesomeAPI) e © colaboradores do OpenStreetMap",
+  "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_date": "2026-11-17",
+  "built_at": "2026-11-17",
+  "file": "hospitals.tsv.gz",
+  "sha256": "8946e8883905540d68eaaf0404e9ed6c09d12d4df6390506f2964ce7d0b0f64c",
+  "bytes": 424712,
+  "count": 9213,
+  "hospitals": 7128,
+  "urgent": 2085,
+  "with_phone": 6775,
+  "approximate_location": 391,
+  "far_from_cep": 386,
+  "generic_point": 5,
+  "osm_kept_cnes": 212,
+  "osm_moved_to_cep": 227,
+  "osm_exact": 16
+}
