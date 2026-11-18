@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "source": "Elenco de Medicamentos e Insumos do Programa Farmácia Popular do Brasil (Ministério da Saúde)",
+  "url": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular/arquivos/elenco-de-medicamentos-e-insumos-pfpb.pdf",
+  "data_date": "2026-11-18",
+  "built_at": "2026-11-18",
+  "file": "elenco.json",
+  "sha256": "f98e9ab54fa28ef5a326f2ce60df8caac208b3a1ef679cc3a34e8934a046fd30",
+  "bytes": 5364,
+  "count": 41
+}
