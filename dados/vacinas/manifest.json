@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "source": "Calendário Nacional de Vacinação 2025 — Programa Nacional de Imunizações (Ministério da Saúde)",
-  "url": "https://www.gov.br/saude/pt-br/vacinacao/calendario",
+  "source": "Calendário Nacional de Vacinação 2026 (Instrução Normativa do PNI, Ministério da Saúde, out/2026)",
+  "url": "https://www.gov.br/saude/pt-br/vacinacao/publicacoes/instrucao-normativa-que-instrui-o-calendario-nacional-de-vacinacao-2026.pdf",
   "data_date": "2026-11-18",
   "built_at": "2026-11-18",
   "file": "calendar.json",
-  "sha256": "36591890ecae5718e60d1585f5956c935e6c05a238835513de693444cf19483c",
-  "bytes": 6109,
-  "count": 38
+  "sha256": "7ee08c703176bc02c1152b347bd2b686ce3409c96a7b0d83cca7230db9e4f63f",
+  "bytes": 6574,
+  "count": 40
 }
