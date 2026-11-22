@@ -150,6 +150,8 @@ Ela não é guardada nem enviada aos desenvolvedores. Os hospitais vêm de uma l
       (X25519, Ed25519 e AES-256-GCM, com chave nova a cada sessão). <strong>Não passa por servidor nosso nem de terceiros, nem pela internet.</strong></li>
   <li>Só acontece com o app aberto nos dois celulares e com a permissão das duas pessoas naquele momento. Você vê antes o que vai mudar,
       pode recusar e pode desfazer depois. Para parar, é só remover o celular pareado.</li>
+  <li>A <strong>câmera</strong> é usada só para ler o QR code do pareamento e da sincronização. A imagem é processada no
+      aparelho e não é guardada nem enviada.</li>
 </ul>
 
 <h2>6. Por quanto tempo os dados ficam guardados</h2>
@@ -217,7 +219,8 @@ Terms of Use, only to provide the app's features. The developers have no access 
   <li><strong>Optional cloud backup:</strong> one AES-256-GCM encrypted file in a hidden area of your own Google Drive or iCloud.</li>
   <li><strong>Optional sharing with another phone:</strong> shopping lists and expenses you choose can be synced with a phone you paired yourself,
       directly between the two phones on the same Wi-Fi, end-to-end encrypted (X25519, Ed25519, AES-256-GCM). Nothing goes through our servers,
-      third-party servers or the internet, and it only happens with both people's permission at that moment.</li>
+      third-party servers or the internet, and it only happens with both people's permission at that moment. The camera is only used to scan the pairing QR code;
+      the image is processed on the device and is neither stored nor sent.</li>
   <li><strong>Public list updates (each at most once a week):</strong> plain downloads of public files (hospitals from CNES,
       the national vaccination calendar and the Farmácia Popular free-medicine list) from the app's website (GitHub Pages).
       Nothing about you is sent; your medicines are compared with the list on the phone itself. As with any internet
